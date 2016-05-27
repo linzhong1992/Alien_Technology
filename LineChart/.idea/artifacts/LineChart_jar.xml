@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LineChart:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LineChart_jar</output-path>
+    <root id="archive" name="LineChart.jar">
+      <element id="module-output" name="LineChart" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/poi-bin-3.14/poi-3.14/poi-3.14-20160307.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/poi-bin-3.14/poi-3.14/poi-ooxml-schemas-3.14-20160307.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jfreechart-1.0.19/jfreechart-1.0.19/lib/jfreechart-1.0.19-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/poi-bin-3.14/poi-3.14/ooxml-lib/xmlbeans-2.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jfreechart-1.0.19/jfreechart-1.0.19/lib/jfreechart-1.0.19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/poi-bin-3.14/poi-3.14/poi-ooxml-3.14-20160307.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jfreechart-1.0.19/jfreechart-1.0.19/lib/jcommon-1.0.23.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
